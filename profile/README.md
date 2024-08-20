@@ -1,6 +1,10 @@
 ###  🌟 Rostar Live Enterprise Web Project
 
-This is a project directory containing all code for the Rostar Live Web Project. Documentation to come:
+This is a project directory containing all code for the Rostar Live Web Project.
+
+Documentation:
+
+Figma: [I prefer Figma to Sketch but this should be the basis for all visual improvements](https://www.figma.com/design/FPUDXtSwrUdtM2nQXEqZY8/Rostar?node-id=0-1&t=YsR0N6ntWWZC3bBf-1) 
 
 <!--
 
