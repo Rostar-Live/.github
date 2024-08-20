@@ -1,4 +1,6 @@
-## Hi there 👋
+## Rostar Live Enterprise Web Project
+
+This is a project directory containing all code for the Rostar Live Web Project.
 
 <!--
 
