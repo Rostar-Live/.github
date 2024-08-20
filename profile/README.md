@@ -1,4 +1,4 @@
-###  🌟 Rostar Live Enterprise Web Project
+###  🌟 Rostar Live Web Project Enterprise
 
 This is a project directory containing all code for the Rostar Live Web Project.
 
