@@ -1,5 +1,5 @@
 # Rostar Live: Web Project (Enterprise Edition)
-### Scalable, secure, and feature-rich web platform for Rostar Live
+### Feature-rich and scalable web platform for Rostar Live
 
 This is a project directory containing all code for the Rostar Live Web Project.
 
